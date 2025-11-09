@@ -78,7 +78,7 @@ void new2(){
 }
 
 void new3(){
-    cout<<"333"<<endl;
+    cout<<"555"<<endl;
 }
 
 int main() {
